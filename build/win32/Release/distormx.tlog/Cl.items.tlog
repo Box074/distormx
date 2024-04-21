@@ -1,0 +1,10 @@
+F:\HKLab\RuijieBreak\distormx\distorm3\src\decoder.c;F:\HKLab\RuijieBreak\distormx\build\win32\Release\decoder.obj
+F:\HKLab\RuijieBreak\distormx\distorm3\src\distorm.c;F:\HKLab\RuijieBreak\distormx\build\win32\Release\distorm.obj
+F:\HKLab\RuijieBreak\distormx\distorm3\src\instructions.c;F:\HKLab\RuijieBreak\distormx\build\win32\Release\instructions.obj
+F:\HKLab\RuijieBreak\distormx\distorm3\src\insts.c;F:\HKLab\RuijieBreak\distormx\build\win32\Release\insts.obj
+F:\HKLab\RuijieBreak\distormx\distorm3\src\mnemonics.c;F:\HKLab\RuijieBreak\distormx\build\win32\Release\mnemonics.obj
+F:\HKLab\RuijieBreak\distormx\distorm3\src\operands.c;F:\HKLab\RuijieBreak\distormx\build\win32\Release\operands.obj
+F:\HKLab\RuijieBreak\distormx\distorm3\src\prefix.c;F:\HKLab\RuijieBreak\distormx\build\win32\Release\prefix.obj
+F:\HKLab\RuijieBreak\distormx\distorm3\src\textdefs.c;F:\HKLab\RuijieBreak\distormx\build\win32\Release\textdefs.obj
+F:\HKLab\RuijieBreak\distormx\src\distormx.c;F:\HKLab\RuijieBreak\distormx\build\win32\Release\distormx.obj
+F:\HKLab\RuijieBreak\distormx\src\OS.c;F:\HKLab\RuijieBreak\distormx\build\win32\Release\OS.obj
